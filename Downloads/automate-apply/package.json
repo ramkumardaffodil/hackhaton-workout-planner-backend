@@ -1,0 +1,25 @@
+{
+  "name": "automate-apply",
+  "version": "1.0.0",
+  "main": "IntaHyre.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "bluebird": "^3.7.2",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "figlet": "^1.7.0",
+    "moment": "^2.30.1",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.15",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^23.6.0"
+  }
+}
